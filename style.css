@@ -91,3 +91,41 @@ nav div{
 .text-style{
     color: #FD6E0A;
 }
+.section-title{
+    font-weight: bold;
+    color: #181818;
+    font-size: 35px;
+}
+.section-description{
+    color: #757575;
+    font-size: 18px;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+.about-style{
+    border-radius: 10px;
+    text-align: center;
+    padding:130px 150px;
+    margin-top: 80px;
+
+    
+}
+.secondary-bg{
+    background-color: #FFF8F3;
+}
+main{
+    max-width: 1140px;
+    margin:0 auto
+    
+}
+.item-title{
+    font-size: 20px;
+    color: #757575;
+}
+.item-description{
+    font-size: 20px;
+    color: #181818;
+    font-weight: 600;
+}
